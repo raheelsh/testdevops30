@@ -7,3 +7,7 @@ NAME=$1
 fi
 echo you have entered the text $NAME
 exit 0
+NAME=$1
+fi
+echo you have entered the text $NAME
+exit 0
